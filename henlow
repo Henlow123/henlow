@@ -1,0 +1,1 @@
+game:GetService("Chriz_Xean").LocalPlayer:Kick("Bye test")
